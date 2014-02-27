@@ -40,16 +40,21 @@ onesixtyone sends a request for the system.sysDescr.0 value, which is present
 on almost all SNMP enabled devices. This returned value gives us a description
 of the system software running on the device. Here is an excert of a log file:
 
-192.168.120.92 [1234] HP ETHERNET MULTI-ENVIRONMENT,ROM A.05.03,JETDIRECT,
-JD24,EEPROM A.05.05
-130.160.108.146 [public] Hardware: x86 Family 15 Model 0 Stepping 10 AT/AT
-COMPATIBLE - Software: Windows 2000 Version 5.0 (Build 2195 Uniprocessor Free)
+192.168.120.92 [1234] HP ETHERNET MULTI-ENVIRONMENT,ROM A.05.03,JETDIRECT, JD24,EEPROM A.05.05
+
+130.160.108.146 [public] Hardware: x86 Family 15 Model 0 Stepping 10 AT/AT COMPATIBLE - Software: Windows 2000 Version 5.0 (Build 2195 Uniprocessor Free)
+
 192.168.112.64 [public] Power Macintosh, hardware type 406; MacOS 9.0;
 OpenTransport 2.5.2
+
 192.168.104.254 [public] Novell NetWare 4.11  August 22, 1996
+
 192.168.112.83 [public] Macintosh Quadra 650, System Software 7.1 
+
 192.168.244.210 [public] RICOH Aficio 850 / RICOH Network Printer D model
+
 192.168.240.39 [public] Cisco Systems WS-C5000
+
 192.168.244.103 [public] HPJ3210A AdvanceStack 10BT Switching Hub Management
 Module, ROM A.01.02, EEPROM A.01.01, HW A.01.00
 
